@@ -1,0 +1,34 @@
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+}
+body{
+    box-align:center;
+}
+nav li{
+    display: inline;
+    list-style: none;
+    border: 1px solid black;
+    margin-right: 15px;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+form{
+    width: 300px;
+    margin: auto;
+    border:1px solid gray;
+    padding: 30px 50px;
+    box-sizing: border-box;
+}
+footer{
+    color: white;
+    background: black;
+    position: fixed;
+    bottom: 2px;
+    border-top: 3px solid yellowgreen;
+    width: 100%;
+    padding-left: 50px;
+}
